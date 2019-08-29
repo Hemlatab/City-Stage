@@ -560,26 +560,6 @@ TESTIMONIAL
   box-shadow: none !important;
 }
 
-.testimonial-item ul li blockquote::before {
-  content: "“";
-  left: 30px;
-}
-
-.testimonial-item ul li blockquote::before,
-.testimonial-item ul li blockquote::after {
-  position: absolute;
-  font-weight: 300;
-  font-size: 3em;
-  font-family: Georgia, serif;
-  color: #ccc;
-  top: 62%;
-}
-
-.testimonial-item ul li blockquote::after {
-  content: "”";
-  right: 30px;
-}
-
 /***********************************
 ************************************
 Blog
@@ -767,19 +747,19 @@ contact
   text-decoration: none;
 }
 .twitter a:hover {
-  background: #55acee;
+  background: #fff;
 }
 .facebook a:hover {
-  background: #3b5998;
+  background: #fff;
 }
 .pinterest a:hover {
-  background: #cb2026;
+  background: #fff;
 }
 .gplus a:hover {
-  background: #dd4b39;
+  background: #fff;
 }
 .instagram a:hover {
-  background: #dd4b39;
+  background: #fff;
 }
 
 #footer {
